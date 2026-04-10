@@ -1,4 +1,4 @@
-package dev.ai.day3;
+package org.example;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.ObjectMapper;

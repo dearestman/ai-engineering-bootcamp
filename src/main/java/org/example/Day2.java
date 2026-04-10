@@ -1,4 +1,4 @@
-    package org.example.day1_openai_basic;
+    package org.example;
 
     import java.io.IOException;
     import java.net.URI;
